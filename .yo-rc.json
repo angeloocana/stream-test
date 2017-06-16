@@ -1,0 +1,9 @@
+{
+  "generator-ptz": {
+    "promptValues": {
+      "appname": "stream-test",
+      "githubAuthor": "angeloocana",
+      "codecovToken": "8314f98b-1815-4e2e-bf2d-c0ef794782d6"
+    }
+  }
+}
